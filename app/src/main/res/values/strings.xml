@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mail App</string>
+    <string name="redactar">Redactar Mensaje</string>
+    <string name="de">De:</string>
+    <string name="para">Para:</string>
+    <string name="cc">CC:</string>
+    <string name="cco">CCo:</string>
+    <string name="asunto">Asunto:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
